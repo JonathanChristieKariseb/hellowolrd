@@ -1,2 +1,2 @@
 # hellowolrd
-Just another repository 
+I am Jonathan a self-taught programmer.
